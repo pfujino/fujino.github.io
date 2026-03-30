@@ -1,0 +1,2 @@
+# fujino.github.io
+try
